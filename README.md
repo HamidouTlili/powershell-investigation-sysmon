@@ -94,14 +94,3 @@ than the command itself — the exact same PowerShell line would read very diffe
 deployment tool instead of an HTA file launched from a user's Desktop.
 
 ---
-
-### LinkedIn post draft
-
-> Simulated a phishing-style PowerShell execution chain end-to-end: configured Sysmon and Script
-> Block Logging, triggered a hidden, encoded PowerShell command via mshta.exe, then investigated
-> it — decoding, parent-process tracing, and a malicious-vs-admin verdict — and wrote it up as a
-> SOC ticket.
->
-> Full write-up on GitHub: [link]
->
-> #cybersecurity #SOC #blueteam #Sysmon #PowerShell
